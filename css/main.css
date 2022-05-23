@@ -135,6 +135,7 @@ body {
   width: 400px;
   height: 675px;
   text-align: center;
+  flex-direction: column;
 }
 
 #content span {
@@ -147,11 +148,8 @@ body {
     width: 150px;
     height: 150px;
     border-radius: .5em;
+    padding: 20px;
 }
-
-
-
-
 
 
 /* ==========================================================================
